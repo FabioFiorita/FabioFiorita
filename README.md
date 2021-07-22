@@ -10,7 +10,7 @@
 
 ## Connect with me  
 <div align="leading">
-<a href="https:https://linkedin.com/in/fabiofioritapontes" target="_blank">
+<a href="https://www.linkedin.com/in/fabiofioritapontes/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="https://github.com/FabioFiorita" target="_blank">
