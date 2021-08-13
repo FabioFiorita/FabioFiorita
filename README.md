@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Fabio Fiorita
 - 📚 I'm currently studying Computer Engineering at [Inatel](https://inatel.br/home/)
-- 🧑🏻‍💻 I'm currently working on an iOS App called [MedControl](https://github.com/FabioFiorita/MedControl)
+- 🧑🏻‍💻 I'm currently working on an iOS App called [meuMedicamento](https://github.com/FabioFiorita/meuMedicamento)
 - 📫 How to reach me fabiolfp@gmail.com
 
 <br/>  
