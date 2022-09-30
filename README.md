@@ -9,6 +9,14 @@
 ## Languagues and Tools
 ![Swift](./images/swift.png) <img src="/images/java.gif" width="48"/> <img src="/images/c++.png" width="48"/> ![Xcode](./images/xcode.png) ![IntelliJ](./images/intellij.png) ![VScode](./images/vscode.png) ![GitHub](./images/github.png)
 
+##
+<div>
+  <a href="https://github.com/fabiofiorita">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fabiofiorita&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiofiorita&layout=compact&langs_count=8&theme=dark&hide=jupyter%20notebook"/>
+</div>
+
+
 ## Connect with me  
 <div align="leading">
 <a href="https://www.linkedin.com/in/fabiofioritapontes/" target="_blank">
