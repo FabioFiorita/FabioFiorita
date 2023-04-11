@@ -1,8 +1,8 @@
 # 👋 Hi, I’m Fabio Fiorita
 - 📚 Computer Engineering Student at [Inatel](https://inatel.br/home/)
-- 🧑🏻‍💻 Working on an iOS App called [meuMedicamento](https://github.com/FabioFiorita/meuMedicamento)
-- 💻 Learning more about JavaScript and Web Development
-- 📫 How to reach me fabiolfp@gmail.com
+- 🧑🏻‍💻 Creator of an iOS App called [meuMedicamento](https://github.com/FabioFiorita/meuMedicamento)
+- 💻 Learning more about Flutter and Kotlin for Mobile Development
+- 📫 How to reach me fabiofiorita@outlook.com
 
 <br/>  
 
