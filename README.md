@@ -19,6 +19,12 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiofiorita&layout=compact&langs_count=8&theme=dark&hide=jupyter%20notebook"/>
 </div>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fabiofiorita/fabiofiorita/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fabiofiorita/fabiofiorita/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/fabiofiorita/fabiofiorita/output/github-contribution-grid-snake.svg">
+</picture>
+
 ## Connect with me  
 <div align="leading">
 <a href="https://www.linkedin.com/in/fabiofioritapontes/" target="_blank">
