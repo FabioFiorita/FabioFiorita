@@ -1,6 +1,7 @@
 # 👋 Hi, I’m Fabio Fiorita
 - 📚 Computer Engineering Student at [Inatel](https://inatel.br/home/)
 - 🧑🏻‍💻 Creator of an iOS App called [meuMedicamento](https://github.com/FabioFiorita/meuMedicamento)
+- 📱 Creator of an iOS and Android App called [Tastik](https://sites.google.com/view/tastik/home)
 - 💻 Learning more about Flutter and Kotlin
 - 📫 How to reach me fabiofiorita@outlook.com
 
