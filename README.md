@@ -1,42 +1,22 @@
 # 👋 Hi, I’m Fabio Fiorita
-- 📚 Computer Engineering Student at [Inatel](https://inatel.br/home/)
-- 🧑🏻‍💻 Creator of an iOS App called [meuMedicamento](https://github.com/FabioFiorita/meuMedicamento)
-- 📱 Creator of an iOS and Android App called [Tastik](https://sites.google.com/view/tastik/home)
-- 💻 Learning more about Flutter and Kotlin
-- 📫 How to reach me fabiofiorita@outlook.com
+-  💻 Full-stack and iOS developer passionate about building scalable mobile and web applications with a focus on user experience and code quality.
+-  📱 Creator of two published iOS apps with over 2,000 users worldwide: [ItsMedTime](https://fabiofiorita.vercel.app/itsmedtime) and [Tastik](https://fabiofiorita.vercel.app/tastik)
+-  🧑🏻‍💻 Experienced with Swift, SwiftUI, TypeScript, ReactJS, NextJS, NestJS, Prisma, Node.js, Firebase, and cloud-native tools.
+-  🚀 Currently working as a Software Developer at Visagio, developing full-stack solutions for the oil and gas industry.
+-  🎓 Bachelor in Computer Engineering from [Inatel](https://inatel.br/home/)
+-  📫 Reach me at fabiolfp@gmail.com or via [LinkedIn](https://www.linkedin.com/in/fabiofioritapontes/)
+-  🌐 Visit my portfolio to learn more about my work and projects: [fabiofiorita.vercel.app](https://fabiofiorita.vercel.app/)
 
-<br/>  
+## Projects
 
-## Primary Languages and Tools
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="48"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" width="48"/>         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="48"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="48"/><img
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="48"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" width="48"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="48"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="48"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="48"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="48"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="48"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48"/>
+-  [**ItsMedTime**](https://fabiofiorita.vercel.app/itsmedtime)
 
-## Additional Languages and Tools
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="48"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg" width="48"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="48"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="48"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" width="48"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg" width="48"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="48"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="48"/>
+    <img src="https://fabiofiorita.vercel.app/itsmedtime.svg" alt="ItsMedTime" width="150"/>
+   
+    ItsMedTime is a smart medication management iOS app designed to simplify and personalize medication routines. Inspired by a real family need, it helps users track prescriptions, set reliable reminders—including critical alerts that work even in silent mode—monitor intake history, and manage medication stock levels. The app features interactive widgets for quick dose marking directly from the home and lock screens, detailed charts to visualize treatment adherence and expenses, and seamless iCloud synchronization for data security and accessibility. Built with Swift, SwiftUI, and SwiftData, ItsMedTime focuses on privacy, usability, and modern iOS technologies, making medication management straightforward and stress-free.
 
-##
-<div>
-  <a href="https://github.com/fabiofiorita">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fabiofiorita&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiofiorita&layout=compact&langs_count=8&theme=dark&hide=jupyter%20notebook"/>
-</div>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fabiofiorita/fabiofiorita/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fabiofiorita/fabiofiorita/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/fabiofiorita/fabiofiorita/output/github-contribution-grid-snake.svg">
-</picture>
-
-## Connect with me  
-<div align="leading">
-<a href="https://www.linkedin.com/in/fabiofioritapontes/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://github.com/FabioFiorita" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/fabiofiorita" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
-</div>  
-<br/> 
+-  [**Tastik**](https://fabiofiorita.vercel.app/tastik)
+  
+    <img src="https://fabiofiorita.vercel.app/tastik.svg" alt="Tastik" width="150"/>
+   
+    Tastik is a versatile and flexible list management app for iOS that helps users organize daily tasks, shopping lists, budgets, and projects without the pressure of calendar dates or reminders. It supports multiple list types such as checklists, counters, budgets, kanban boards, and custom multi-type lists that can be mixed and matched freely. Interactive home screen widgets provide quick access and updates without opening the app. Tastik is designed to keep life’s moving parts organized and accessible, whether you’re planning a trip, tracking habits, managing projects, or handling everyday chores. Developed exclusively with Swift, SwiftUI, and SwiftData, it prioritizes ease of use, flexibility, and productivity.
