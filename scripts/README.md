@@ -1,0 +1,1 @@
+`node scripts/render.mjs` redraws the pixel images in `assets/` (the banner and the three project cards). They animate with CSS only, because GitHub shows them as images. The fonts are Press Start 2P and Jersey 10, under the SIL Open Font License, embedded in each SVG.
